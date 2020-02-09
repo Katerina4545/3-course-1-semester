@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="snake:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a27cc4d8-c2a9-4d89-856f-4e2e3619da6e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="snake" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V6ovp4l7LIqyab7FRTh5aakyYu" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/programming/сети/project1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\study_programm\snake\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\study_programm\snake\src\main\java\Common" />
+      <recent name="C:\study_programm\snake\src\main\java" />
+      <recent name="C:\study_programm\snake\src\main\protobuf" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.player first">
+    <configuration name="game first" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Menu" />
+      <module name="snake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="player first" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Menu" />
+      <module name="snake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="player second" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Menu" />
+      <module name="snake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Snakes [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.game first" />
+      <item itemvalue="Application.player first" />
+      <item itemvalue="Application.player second" />
+      <item itemvalue="Maven.Snakes [clean,install]" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a27cc4d8-c2a9-4d89-856f-4e2e3619da6e" name="Default Changelist" comment="" />
+      <created>1576583139062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576583139062</updated>
+      <workItem from="1576583145653" duration="3218000" />
+      <workItem from="1576645482508" duration="735000" />
+      <workItem from="1576690055997" duration="6309000" />
+      <workItem from="1576915808815" duration="865000" />
+      <workItem from="1576917711957" duration="1474000" />
+      <workItem from="1576992881011" duration="23147000" />
+      <workItem from="1577072161094" duration="9195000" />
+      <workItem from="1577152428074" duration="4836000" />
+      <workItem from="1577180336949" duration="2732000" />
+      <workItem from="1577189178576" duration="5866000" />
+      <workItem from="1577200337758" duration="2064000" />
+      <workItem from="1577246082811" duration="1953000" />
+      <workItem from="1577255162418" duration="20000" />
+      <workItem from="1577934437492" duration="6195000" />
+      <workItem from="1578047053817" duration="6290000" />
+      <workItem from="1578733518984" duration="4183000" />
+      <workItem from="1579154164975" duration="11200000" />
+      <workItem from="1579243789916" duration="10292000" />
+      <workItem from="1579272627184" duration="7413000" />
+      <workItem from="1579312418360" duration="6896000" />
+      <workItem from="1579338189501" duration="1745000" />
+      <workItem from="1579342075032" duration="19351000" />
+      <workItem from="1579397587152" duration="7935000" />
+      <workItem from="1579422921422" duration="4662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MenuWindow.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="data[53]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

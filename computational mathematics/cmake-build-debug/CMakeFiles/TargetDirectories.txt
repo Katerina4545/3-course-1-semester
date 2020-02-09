@@ -1,0 +1,3 @@
+C:/study_programm/computational mathematics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/study_programm/computational mathematics/cmake-build-debug/CMakeFiles/computational_mathematics.dir
+C:/study_programm/computational mathematics/cmake-build-debug/CMakeFiles/rebuild_cache.dir

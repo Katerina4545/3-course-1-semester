@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="775.0" prefWidth="1275.0" style="-fx-background-color: #FFC0CB#FFC0CB;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.company.View.PageGUI.PagePainter">
+   <children>
+      <AnchorPane prefHeight="73.0" prefWidth="1282.0" style="-fx-background-color: #DB7093#DB7093;">
+         <children>
+            <ButtonBar layoutX="224.0" layoutY="15.0" prefHeight="68.0" prefWidth="800.0">
+              <buttons>
+                  <ComboBox fx:id="optionButton" onAction="#changeOption" prefHeight="27.0" prefWidth="320.0" promptText="Опции" />
+                  <ComboBox fx:id="refactorPage" onAction="#changePage" prefWidth="150.0" promptText="Редактирование вкладки" />
+                  <ComboBox fx:id="refactorBlock" onAction="#changeBlock" prefWidth="150.0" promptText="Редактирование блока" />
+              </buttons>
+            </ButtonBar>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

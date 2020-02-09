@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="project3-chat-tree:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fce1ab5-15fc-4bc7-a80d-daf0ac2d1bf3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SYls2XBcHE7JuYjgFv7zz0h3dc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.rita">
+    <configuration name="jhon" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Node" />
+      <module name="project3-chat-tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kate" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Node" />
+      <module name="project3-chat-tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="liza" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Node" />
+      <module name="project3-chat-tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="richard" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Node" />
+      <module name="project3-chat-tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rita" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Node" />
+      <module name="project3-chat-tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sara" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Node" />
+      <module name="project3-chat-tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.jhon" />
+      <item itemvalue="Application.richard" />
+      <item itemvalue="Application.sara" />
+      <item itemvalue="Application.kate" />
+      <item itemvalue="Application.liza" />
+      <item itemvalue="Application.rita" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fce1ab5-15fc-4bc7-a80d-daf0ac2d1bf3" name="Default Changelist" comment="" />
+      <created>1571748612922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571748612922</updated>
+      <workItem from="1571748617399" duration="3363000" />
+      <workItem from="1571975704512" duration="1926000" />
+      <workItem from="1572078549892" duration="5612000" />
+      <workItem from="1572161075416" duration="10524000" />
+      <workItem from="1572321672677" duration="3879000" />
+      <workItem from="1572340903791" duration="4308000" />
+      <workItem from="1572408214415" duration="553000" />
+      <workItem from="1572409261971" duration="2479000" />
+      <workItem from="1572772389887" duration="10932000" />
+      <workItem from="1572922808448" duration="9934000" />
+      <workItem from="1572950898719" duration="12219000" />
+      <workItem from="1573012852699" duration="2361000" />
+      <workItem from="1573631617677" duration="11458000" />
+      <workItem from="1574156524636" duration="4124000" />
+      <workItem from="1574255694556" duration="4704000" />
+      <workItem from="1574302824069" duration="2919000" />
+      <workItem from="1574829413065" duration="606000" />
+      <workItem from="1575367261266" duration="3445000" />
+      <workItem from="1575375175986" duration="36000" />
+      <workItem from="1575431812999" duration="1362000" />
+      <workItem from="1577008469335" duration="1073000" />
+      <workItem from="1577078321826" duration="2430000" />
+      <workItem from="1577152334634" duration="1407000" />
+      <workItem from="1577938842927" duration="1089000" />
+      <workItem from="1578047069286" duration="596000" />
+      <workItem from="1578733532176" duration="1312000" />
+      <workItem from="1579153911896" duration="240000" />
+      <workItem from="1579276818431" duration="762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

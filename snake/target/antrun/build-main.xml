@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <property name="protoc.filename" value="protoc-3.0.0-beta-1-${os.detected.classifier}.exe"/>
+  <property name="protoc.filepath" value=""/>
+  <chmod file="C:\study_programm\snake\target/protoc-3.0.0-beta-1-${os.detected.classifier}.exe" perm="ugo+rx"/>
+  <mkdir dir="C:\study_programm\snake\target/generated-sources"/>
+  <path id="protobuf.input.filepaths.path">
+    <fileset dir="C:\study_programm\snake/src/main/protobuf">
+      <include name="**/*.proto"/>
+    </fileset>
+  </path>
+  <pathconvert property="protobuf.input.filepaths" pathsep=" " refid="protobuf.input.filepaths.path"/>
+  <exec failonerror="true" executable="C:\study_programm\snake\target/protoc-3.0.0-beta-1-${os.detected.classifier}.exe">
+    <arg value="-I"/>
+    <arg value="C:\study_programm\snake/src/main/protobuf"/>
+    <arg value="--java_out"/>
+    <arg value="C:\study_programm\snake\target/generated-sources"/>
+    <arg line="${protobuf.input.filepaths}"/>
+  </exec>
+</target>
+</project>
